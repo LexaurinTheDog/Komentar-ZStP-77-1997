@@ -84,6 +84,11 @@ Zákon se nevztahuje na organizační složky státu ani na jiné státní organ
 
 **Určený majetek (odst. 9).** Majetek státu vymezený v zakládací listině jako určený majetek se zapisuje do obchodního rejstříku. Jde o majetek se zvýšeným režimem ochrany — nakládat s ním lze jen s předchozím schválením zakladatele (§ 17 odst. 2) a účtuje se o něm odděleně (§ 17 odst. 3).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 390/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3022E17DC0D44E3DC1257A4E006A91AB?openDocument) — 31. 8. 2005, kat. A
+  > „Nešlo-li o majetek, na který byl předložen privatizační projekt, nebo o majetek vymezený v zakládací listině státního podniku, mohl státní podnik před 1. 1. 2001 platně uzavřít smlouvu o zřízení zástavního práva k majetku státu, k němuž měl právo hospodaření, a to i bez souhlasu zakladatele. Konkursní věřitel, jehož právo na oddělené uspokojení bylo popřeno, musí v žalobním petitu, jímž se domáhá určení tohoto práva, uvést jednak řádnou identifikaci věřitelovy zajištěné pohledávky (včetně označení dlužníka - úpadce), jednak identifikaci majetku sepsaného v konkursní podstatě úpadce, z jehož zpeněžení má být zajištěná pohledávka tohoto věřitele uspokojena. Těmto požadavkům vyhovuje v případech, kdy jde o pohledávku ze smlouvy, žalobní petit v tomto znění: "Určuje se, že u pohledávky za úpadcem X (nezaměnitelné označení úpadce) ze smlouvy (označení smlouvy) ze dne ..., ve výši ... Kč,…"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Ministerstvo jako zakladatel rozhodne o snížení kmenového jmění podniku o 200 mil. Kč ke krytí ztráty vykázané v účetní závěrce. Minimální výše kmenového jmění podle zakládací listiny je zachována. Dodavatel s neuhrazenou pohledávkou požaduje zajištění.
