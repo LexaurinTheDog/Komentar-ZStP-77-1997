@@ -84,6 +84,8 @@ Zákon se nevztahuje na organizační složky státu ani na jiné státní organ
 
 **Určený majetek (odst. 9).** Majetek státu vymezený v zakládací listině jako určený majetek se zapisuje do obchodního rejstříku. Jde o majetek se zvýšeným režimem ochrany — nakládat s ním lze jen s předchozím schválením zakladatele (§ 17 odst. 2) a účtuje se o něm odděleně (§ 17 odst. 3).
 
+**K místní judikaturní kartě NS 29 Odo 390/2003 (viz výše).** Rozhodnutí se týká právního stavu před 1. 1. 2001: tehdy mohl státní podnik platně zřídit zástavní právo k majetku státu, k němuž měl právo hospodaření, i bez souhlasu zakladatele, nešlo-li o majetek, na který byl předložen privatizační projekt, nebo o majetek vymezený v zakládací listině. Na dnešní znění je přenositelné jen s výhradou — účinné znění zákona vyžaduje k zřízení zástavního práva k majetku podniku vždy předchozí schválení zakladatele (§ 16 odst. 7) a k nakládání s určeným majetkem rovněž (§ 17 odst. 2). Procesní část právní věty (petit žaloby na určení práva na oddělené uspokojení v konkursu) se k výkladu tohoto zákona nevztahuje.
+
 **Judikatura (z místních zdrojů):**
 
 - *NS* [29 Odo 390/2003](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3022E17DC0D44E3DC1257A4E006A91AB?openDocument) — 31. 8. 2005, kat. A

@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 77/1997 Sb., o státním podniku. Vychází výhradně z místních kapitol, místního znění předpisu (verze `SB-1997-00077_2025-03-01`) a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 77/1997 Sb., o státním podniku. Vychází výhradně z místních kapitol, místního znění předpisu (verze `SB-1997-00077_2025-03-01`) a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva v repozitáři není; místní judikaturu tvoří jediná karta NS 29 Odo 390/2003 ([judikatura/NS-29-Odo-390-2003.md](judikatura/NS-29-Odo-390-2003.md)). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -145,8 +145,8 @@ Místně doložené střety: hospodárnost proti formálnímu vymáhání pohled
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka zatím obsahuje **0** karet rozhodnutí; v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Úvod to uvádí výslovně: „Repozitář neobsahuje místní judikaturní karty k tomuto zákonu, a komentář proto neuvádí žádné spisové značky soudních rozhodnutí“.
-Místní korpus tedy neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet. Složka `judikatura/` bude doplněna strojově později — do té doby jde o mezeru. Prioritní okruhy pro budoucí karty shrnuje vrstva 9 v [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md) (relativní neplatnost podle § 16 odst. 3, péče a odpovědnost ředitele a členů dozorčí rady, povaha podniku podle § 20 odst. 2 OZ, soudní zrušení, vyloučení správního řádu, odnětí majetku, zákaz konkurence).
+Místní složka obsahuje **1** kartu rozhodnutí — [judikatura/NS-29-Odo-390-2003.md](judikatura/NS-29-Odo-390-2003.md) (Nejvyšší soud, 29 Odo 390/2003, 31. 8. 2005, kat. A), citovanou u [§ 2](01-obecna-zalozeni-organy.md); soubor zásad na ni jako na oporu neodkazuje. Nosná teze podle právní věty: „Nešlo-li o majetek, na který byl předložen privatizační projekt, nebo o majetek vymezený v zakládací listině státního podniku, mohl státní podnik před 1. 1. 2001 platně uzavřít smlouvu o zřízení zástavního práva k majetku státu, k němuž měl právo hospodaření, a to i bez souhlasu zakladatele.“
+Hranice použitelnosti: jde o starší právní stav; kapitola 1 výslovně uvádí, že „účinné znění zákona vyžaduje k zřízení zástavního práva k majetku podniku vždy předchozí schválení zakladatele (§ 16 odst. 7) a k nakládání s určeným majetkem rovněž (§ 17 odst. 2)“, a že „Procesní část právní věty (petit žaloby na určení práva na oddělené uspokojení v konkursu) se k výkladu tohoto zákona nevztahuje.“ Ostatní závěry kapitol jsou podle úvodu „syntézou z textu a systematiky zákona“. K dalším výkladovým otázkám místní karta není a judikatorní odpověď se nesmí domýšlet — jde o mezeru. Prioritní okruhy pro další karty shrnuje vrstva 9 v [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md) (relativní neplatnost podle § 16 odst. 3, péče a odpovědnost ředitele a členů dozorčí rady, povaha podniku podle § 20 odst. 2 OZ, soudní zrušení, vyloučení správního řádu, odnětí majetku, zákaz konkurence).
 
 **Jak ji řešit.** U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (pozor na novely vkládající § 12a, § 13a a § 17a až § 17f) a stejný právní problém; rozhodnutí k zákonu č. 111/1990 Sb. přebírejte jen po ověření systematické kontinuity. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; chybějící místní judikaturu označte jako mezeru.
 
@@ -186,7 +186,7 @@ Místní kapitoly obsahují **45** výslovně označených výkladových otázek
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md) — souhrnná tabulka variant
 Typická pracovní stanoviska kapitol jsou formulována jako bezpečnější postup, např. „při souběhu je bezpečnější opatřit oba souhlasy“ nebo u fúze, že „opatrný postup jej předem zajistí“.
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; judikatorní argument zatím chybí. Doporučení „bezpečnějšího postupu“ odlišujte od rozhodnutí sporu. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; judikatorní argument k těmto sporům místní korpus nemá (jediná místní karta se týká zástavního práva před 1. 1. 2001). Doporučení „bezpečnějšího postupu“ odlišujte od rozhodnutí sporu. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 1](01-obecna-zalozeni-organy.md); [kapitola 2](02-zakladatel-majetek-zaverecna.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -203,13 +203,13 @@ Aplikační vrstvu lze ověřit zejména v: [01-obecna-zalozeni-organy](01-obecn
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **3** kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **3** kapitoly a **1** karta rozhodnutí (NS 29 Odo 390/2003), doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově později);
+- místní judikatura je omezena na jednu kartu k právnímu stavu před 1. 1. 2001 (NS 29 Odo 390/2003, § 2); k výkladovým otázkám účinného znění citovatelnou tezi neposkytuje;
 - místní důvodová zpráva není k dispozici;
 - data účinnosti jednotlivých novel nejsou v korpusu uvedena;
 - komentované znění je k 1. 3. 2025 — „Vychází ze znění účinného k 1. 3. 2025; pozdější změny nemusí být zohledněny.“
-Aktualizaci musí spustit zejména změna místního znění předpisu, doplnění nebo nahrazení místní karty rozhodnutí, změna navazujících předpisů (OZ, zákoník práce, zákon o veřejných rejstřících, daňový řád, pravidla veřejné podpory), rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
+Aktualizaci musí spustit zejména změna místního znění předpisu, doplnění další nebo nahrazení stávající místní karty rozhodnutí, změna navazujících předpisů (OZ, zákoník práce, zákon o veřejných rejstřících, daňový řád, pravidla veřejné podpory), rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 

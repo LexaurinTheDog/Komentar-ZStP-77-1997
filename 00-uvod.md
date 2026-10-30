@@ -2,7 +2,7 @@
 
 > **Znění k 1. březnu 2025** (dokument e-Sbírky `SB-1997-00077_2025-03-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z doslovného znění zákona v uvedené verzi, z jeho systematiky, z vazeb na související předpisy (občanský zákoník, zákon o obchodních korporacích, zákoník práce, zákon o veřejných rejstřících) a z obecných výkladových zásad. Repozitář neobsahuje místní judikaturní karty k tomuto zákonu, a komentář proto **neuvádí žádné spisové značky soudních rozhodnutí**; kde se v textu hovoří o „výkladové otázce“, jde o otevřený problém plynoucí ze znění zákona, nikoli o odkaz na konkrétní rozhodovací praxi. Kdekoli doprovodné soubory (ZASADY.md, PRAVNI-MODALITY.md) zmiňují judikaturu, jde o poznámku o její absenci v místních pramenech, nikoli o citaci konkrétního rozhodnutí.
+> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z doslovného znění zákona v uvedené verzi, z jeho systematiky, z vazeb na související předpisy (občanský zákoník, zákon o obchodních korporacích, zákoník práce, zákon o veřejných rejstřících) a z obecných výkladových zásad. Repozitář obsahuje jedinou místní judikaturní kartu k tomuto zákonu: rozhodnutí Nejvyššího soudu sp. zn. 29 Odo 390/2003 ze dne 31. 8. 2005, kat. A ([judikatura/NS-29-Odo-390-2003.md](judikatura/NS-29-Odo-390-2003.md)), citované v kapitole 1 u § 2. Podle jeho právní věty mohl státní podnik před 1. 1. 2001 platně uzavřít smlouvu o zřízení zástavního práva k majetku státu, k němuž měl právo hospodaření, i bez souhlasu zakladatele, nešlo-li o majetek, na který byl předložen privatizační projekt, nebo o majetek vymezený v zakládací listině státního podniku. Rozhodnutí se týká staršího právního stavu: účinné znění vyžaduje k zřízení zástavního práva k majetku podniku předchozí schválení zakladatele (§ 16 odst. 7) a k nakládání s určeným majetkem rovněž (§ 17 odst. 2); procesní část právní věty (žalobní petit v konkursu) se k výkladu tohoto zákona nevztahuje. Ostatní závěry komentáře jsou syntézou z textu a systematiky zákona a **neopírají se o žádné další spisové značky soudních rozhodnutí**; kde se v textu hovoří o „výkladové otázce“, jde o otevřený problém plynoucí ze znění zákona, nikoli o odkaz na konkrétní rozhodovací praxi.
 
 ---
 
@@ -67,7 +67,7 @@ Zákon ukládá podniku využívat majetek **účelně, hospodárně a efektivn�
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle verze `SB-1997-00077_2025-03-01`, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr.
 - Poznámky pod čarou zákona, které odkazují na předpisy zrušené nebo nahrazené, komentář výslovně označuje a vykládá jako odkazy dynamické na platnou úpravu.
-- Komentář **neobsahuje judikaturu ani spisové značky**; otevřené výkladové problémy jsou označeny jako výkladové otázky a řešeny z textu a systematiky zákona.
+- Komentář obsahuje **jedinou místní judikaturní kartu** — NS 29 Odo 390/2003 u § 2, k právnímu stavu před 1. 1. 2001 ([judikatura/NS-29-Odo-390-2003.md](judikatura/NS-29-Odo-390-2003.md)); další spisové značky neuvádí a otevřené výkladové problémy jsou označeny jako výkladové otázky a řešeny z textu a systematiky zákona.
 - Doprovodné soubory: [ZASADY.md](ZASADY.md) — právní zásady doložené doslovnými citacemi z kapitol; [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — mapa normativních modalit zákona.
 
 ---

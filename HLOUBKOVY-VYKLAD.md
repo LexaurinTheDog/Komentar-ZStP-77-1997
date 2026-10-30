@@ -2,18 +2,18 @@
 
 <!-- LOCAL-HLOUBKOVY-VYKLAD-GENERATED -->
 
-> Tento soubor je aditivní analytická vrstva komentáře k zákonu č. 77/1997 Sb., o státním podniku. Zachovává všechny dosavadní kapitoly, citace, zásady a modality a nic z nich nenahrazuje. Věcná zjištění níže vycházejí pouze z obsahu tohoto repozitáře ([00-uvod.md](00-uvod.md), [01-obecna-zalozeni-organy.md](01-obecna-zalozeni-organy.md), [02-zakladatel-majetek-zaverecna.md](02-zakladatel-majetek-zaverecna.md), [ZASADY.md](ZASADY.md), [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md)); chybějící místní oporu dokument označuje jako kontrolní prioritu, nikoli jako domnělý právní závěr.
+> Tento soubor je aditivní analytická vrstva komentáře k zákonu č. 77/1997 Sb., o státním podniku. Zachovává všechny dosavadní kapitoly, citace, zásady a modality a nic z nich nenahrazuje. Věcná zjištění níže vycházejí pouze z obsahu tohoto repozitáře ([00-uvod.md](00-uvod.md), [01-obecna-zalozeni-organy.md](01-obecna-zalozeni-organy.md), [02-zakladatel-majetek-zaverecna.md](02-zakladatel-majetek-zaverecna.md), [ZASADY.md](ZASADY.md), [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), [judikatura/NS-29-Odo-390-2003.md](judikatura/NS-29-Odo-390-2003.md)); chybějící místní oporu dokument označuje jako kontrolní prioritu, nikoli jako domnělý právní závěr.
 
 ## Jak mapu číst
 
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (verze `SB-1997-00077_2025-03-01` citovaná v kapitolách).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — v tomto repozitáři zatím žádná taková opora není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — v tomto repozitáři jde jen o kartu NS 29 Odo 390/2003 (u § 2, k právnímu stavu před 1. 1. 2001).
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení (v kapitolách zpravidla označeno jako „výkladová otázka“).
 
-Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě věcné kapitoly), **35 samostatně nadepsaných ustanovení** (§ 1 až § 26 včetně paragrafů s písmennými indexy; § 18 v komentovaném znění není), **43 modalitních fragmentů**, **9 zásad** a **0 místních karet rozhodnutí**. Kapitoly obsahují **45 výslovně označených výkladových otázek** (1 + 18 + 26).
+Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě věcné kapitoly), **35 samostatně nadepsaných ustanovení** (§ 1 až § 26 včetně paragrafů s písmennými indexy; § 18 v komentovaném znění není), **43 modalitních fragmentů**, **9 zásad** a **1 místní karta rozhodnutí** (NS 29 Odo 390/2003). Kapitoly obsahují **45 výslovně označených výkladových otázek** (1 + 18 + 26).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -293,11 +293,13 @@ Ochrana třetích osob a věřitelů: „Podnik neručí za dluhy státu a stát
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Místní složka zatím obsahuje **0 karet rozhodnutí**; soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly obsahují **0 citací spisových značek**, což je záměrné rozhodnutí metody:
-- [Metodická poznámka](00-uvod.md): „Repozitář neobsahuje místní judikaturní karty k tomuto zákonu, a komentář proto neuvádí žádné spisové značky soudních rozhodnutí“.
+Místní složka `judikatura/` obsahuje **1 kartu rozhodnutí**: [judikatura/NS-29-Odo-390-2003.md](judikatura/NS-29-Odo-390-2003.md) — Nejvyšší soud, sp. zn. 29 Odo 390/2003, ze dne 31. 8. 2005, kat. A. Karta je citována v kapitole 1 u [§ 2](01-obecna-zalozeni-organy.md); jiná spisová značka se v kapitolách nevyskytuje. Soubor zásad na kartu jako na oporu neodkazuje (**0 karet s použitelnou citací v ZASADY.md**).
+- [Právní věta citovaná u § 2](01-obecna-zalozeni-organy.md): „Nešlo-li o majetek, na který byl předložen privatizační projekt, nebo o majetek vymezený v zakládací listině státního podniku, mohl státní podnik před 1. 1. 2001 platně uzavřít smlouvu o zřízení zástavního práva k majetku státu, k němuž měl právo hospodaření, a to i bez souhlasu zakladatele.“
+- [Hranice podle § 2](01-obecna-zalozeni-organy.md): „Na dnešní znění je přenositelné jen s výhradou — účinné znění zákona vyžaduje k zřízení zástavního práva k majetku podniku vždy předchozí schválení zakladatele (§ 16 odst. 7) a k nakládání s určeným majetkem rovněž (§ 17 odst. 2).“ Dále: „Procesní část právní věty (petit žaloby na určení práva na oddělené uspokojení v konkursu) se k výkladu tohoto zákona nevztahuje.“
+- [Metodická poznámka](00-uvod.md): „Ostatní závěry komentáře jsou syntézou z textu a systematiky zákona a neopírají se o žádné další spisové značky soudních rozhodnutí“.
 - [Poznámka k metodě](00-uvod.md): otevřené výkladové problémy „jsou označeny jako výkladové otázky a řešeny z textu a systematiky zákona“.
 
-Místní korpus tedy neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se nesmí domýšlet. Složka `judikatura/` bude doplněna strojově později; do té doby jde o **mezeru**, nikoli o důkaz, že rozhodovací praxe neexistuje.
+**Nosný důvod a dosah karty.** Nosná teze se týká platnosti zástavní smlouvy, kterou státní podnik před 1. 1. 2001 uzavřel k majetku státu, k němuž měl právo hospodaření, bez souhlasu zakladatele; vymezuje ji dvojí výjimka — majetek, na který byl předložen privatizační projekt, a majetek vymezený v zakládací listině. Na účinné znění ji nelze přenést: § 16 odst. 7 vyžaduje k zřízení zástavního práva předchozí schválení zakladatele a § 17 odst. 2 k nakládání s určeným majetkem rovněž. Pro dnešní praxi má karta význam při posuzování zástavních práv zřízených před 1. 1. 2001. Procesní část právní věty (náležitosti žalobního petitu na určení práva na oddělené uspokojení v konkursu) se výkladu ZStP netýká. K ostatním výkladovým otázkám kapitol místní karta není; judikatorní závěr se nesmí domýšlet a jde o **mezeru**, nikoli o důkaz, že rozhodovací praxe neexistuje.
 
 **Kontrolní priority pro budoucí judikatorní vrstvu (odvozené z výkladových otázek kapitol).**
 1. Relativní neplatnost podle § 16 odst. 3 — oprávněná osoba, povaha lhůt, dobrá víra třetích osob u podmínek ze statutu.
@@ -307,6 +309,7 @@ Místní korpus tedy neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judik
 5. Vyloučení správního řádu (§ 24 odst. 2) a přezkoumatelnost aktů zakladatele s dopadem na třetí osoby (§ 17e odst. 3).
 6. Hranice mezi odnětím majetku a snížením rozsahu určeného majetku (§ 15 odst. 1 písm. e), § 16 odst. 1, § 17 odst. 1).
 7. Zákaz konkurence — vymezení „obdobného“ předmětu podnikání a odvolávání členů volených zaměstnanci (§ 14 odst. 3 a § 13 odst. 2).
+8. Zástavní právo a nakládání s určeným majetkem podle účinného znění (§ 16 odst. 7, § 17 odst. 2) — místní karta NS 29 Odo 390/2003 pokrývá jen stav před 1. 1. 2001.
 
 **Hloubkový test.**
 - U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
@@ -344,7 +347,7 @@ Další místně označené hraniční případy: rozsah portfoliové účasti u
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický, historický a účelový argument; judikatorní argument zatím chybí (vrstva 9).
+- U každé varianty uveďte textový, systematický, historický a účelový argument; judikatorní argument ke sporům v katalogu místní korpus nemá — jediná místní karta (vrstva 9) se týká zástavního práva před 1. 1. 2001.
 - Porovnejte praktické následky variant a vysvětlete, který argument převáží a za jakých předpokladů; „bezpečnější postup“ kapitol je doporučením pro praxi, nikoli rozhodnutím sporu.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -415,7 +418,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **3 kapitolami** (úvod a dvě věcné kapitoly s 35 nadepsanými ustanoveními). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní složka judikatury zatím neexistuje a soubor zásad neodkazuje na žádnou kartu s citovatelnou tezí (doplní se strojově později);
+- místní složka judikatury obsahuje jedinou kartu (NS 29 Odo 390/2003, u § 2) k právnímu stavu před 1. 1. 2001; soubor zásad na ni neodkazuje a k výkladovým otázkám účinného znění citovatelná judikatorní teze chybí;
 - místní důvodová zpráva k zákonu ani k jeho novelám není součástí repozitáře; historický argument proto stojí jen na textu a systematice;
 - data účinnosti jednotlivých novel (vložení § 7a, § 12a, § 13a, § 17a až § 17f, § 20a) místní korpus neuvádí;
 - ústavní souvislosti a evropská pravidla veřejné podpory nejsou rozpracovány samostatně;
@@ -435,17 +438,17 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Komentář k zákonu č. 77/1997 Sb., o státním podniku](00-uvod.md) | ano | ano | ano | jen záznam o absenci | ano | ano | nenalezeno | ano |
-| [Kapitola 1 (§ 1–14)](01-obecna-zalozeni-organy.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Komentář k zákonu č. 77/1997 Sb., o státním podniku](00-uvod.md) | ano | ano | ano | záznam o jediné kartě (§ 2) | ano | ano | nenalezeno | ano |
+| [Kapitola 1 (§ 1–14)](01-obecna-zalozeni-organy.md) | ano | ano | ano | ano (1 karta, § 2) | ano | ano | ano | ano |
 | [Kapitola 2 (§ 15–26)](02-zakladatel-majetek-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** citovatelná rozhodnutí nejsou v žádné ze 3 kapitol; po strojovém doplnění složky `judikatura/` je nutné projít vrstvy 8 až 10 a priority z vrstvy 9.
+- **Judikatura:** citované rozhodnutí obsahuje jen kapitola 1 (NS 29 Odo 390/2003 u § 2, právní stav před 1. 1. 2001); kapitola 2 a úvod žádné citované rozhodnutí nemají. Při doplnění dalších karet je nutné projít vrstvy 8 až 10 a priority z vrstvy 9.
 - **Aplikace:** úvod kazuistiku neobsahuje (je to v souladu s jeho funkcí); integrační případ je ve vrstvě 12.
 - **Časová vrstva:** doplnit data novel u ustanovení s písmennými indexy, aby bylo možné aplikovat test z vrstvy 1.
 
-**Aktualizační spouštěče.** Změna znění ZStP po 1. 3. 2025; doplnění nebo nahrazení místní karty rozhodnutí k některé z výkladových otázek; změna předpisů, na které ZStP odkazuje (OZ, zákoník práce, zákon o veřejných rejstřících, daňový řád, předpisy o veřejné podpoře, hospodářské soutěži a zadávání veřejných zakázek); rozpor mezi kapitolou a ZASADY.md nebo PRAVNI-MODALITY.md; nefunkční místní odkaz.
+**Aktualizační spouštěče.** Změna znění ZStP po 1. 3. 2025; doplnění další místní karty rozhodnutí k některé z výkladových otázek nebo nahrazení stávající karty; změna předpisů, na které ZStP odkazuje (OZ, zákoník práce, zákon o veřejných rejstřících, daňový řád, předpisy o veřejné podpoře, hospodářské soutěži a zadávání veřejných zakázek); rozpor mezi kapitolou a ZASADY.md nebo PRAVNI-MODALITY.md; nefunkční místní odkaz.
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
@@ -478,7 +481,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud místní karty chybějí, judikaturu necitujte.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; mimo místní kartu NS 29 Odo 390/2003 judikaturu necitujte a tuto kartu nevztahujte na účinné znění § 16 odst. 7 a § 17 odst. 2.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací
